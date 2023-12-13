@@ -8,7 +8,7 @@
  <img src="https://github.com/Mpkosh/Dyn_Eval_of_Pred/blob/main/imgs/Алгоритм.png" width="70%" > 
 <p align="center"><i>Схема работы алгоритма</i></p>
 </p>  
-
+ 
 ## Описание файлов
 * preprocessing.py - функции для предобработки данных,
 * micro_help_functions.py - вспомогательные функции для работы с методом на микроуровне,
