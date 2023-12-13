@@ -1,5 +1,5 @@
 # Dyn_Eval_of_Pred
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mpkosh/Dyn_Eval_of_Pred/blob/main/Method_and_Experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mpkosh/Dyn_Eval_of_Pred/blob/main/Method.ipynb)
 
 ## Метод динамической оценки предсказуемости 
 Для определения моделей переходных процессов был создан модуль инкрементального обучения для идентификации моделей переходных финансовых процессов, позволяющий динамически оценивать предсказуемость последовательности транзакций клиентов банка с целью преодоления снижения оценки прогнозирования на временном промежутке. Ключевыми особенностями применённого метода являются:
